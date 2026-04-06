@@ -1,3 +1,4 @@
+import Navbar from "./components/Navbar/Navbar"
 
 
 function App() {
@@ -5,6 +6,7 @@ function App() {
 
   return (
     <>
+      <Navbar />
       <h1>SagarCrafts.dev</h1>
     </>
   )
