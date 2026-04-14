@@ -8,8 +8,6 @@ function Hero() {
 
                 <p className="font-sans tracking-widest text-lg text-neutral-500">Frontend developer turning ideas into thoughtful, interactive experiences...</p>
 
-
-
                 <a
                     href="/Sagar_Sekhar_Pani.pdf"
                     download="Sagar_Sekhar_Pani.pdf"
