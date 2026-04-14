@@ -14,10 +14,10 @@ function HeroLanding() {
                 <a
                     href="/Sagar_Sekhar_Pani.pdf"
                     download="Sagar_Sekhar_Pani_Resume.pdf"
-                    className="flex justify-start align-center gap-2 mt-2 font-sans tracking-widest text-lg px-4 py-2 w-50 backdrop-blur-2xl bg-transparent text-neutral-300 rounded-md hover:scale-105 active:scale-95  transition-transform duration-300 border border-neutral-200/50"
+                    className="group flex justify-start align-center gap-2 mt-2 font-sans tracking-widest text-lg px-4 py-2 w-50 backdrop-blur-2xl bg-transparent text-neutral-300 rounded-md hover:scale-105 active:scale-95  transition-transform duration-300 border border-neutral-200/50"
                 >
                     <span>Acquire Intel</span>
-                    <img src="/icons/planet.svg" alt="download icon" />
+                    <img className="group-hover:rotate-360 duration-600" src="/icons/planet.svg" alt="download icon" />
                 
                 </a>
             </div>
