@@ -1,6 +1,6 @@
 import { NavLink } from 'react-router'
 
-import {homeIcon, projectsIcon, experianceIcon, toolsIcon, thoughtsIcon} from '../../assets/images'
+import {homeIcon, projectsIcon, experienceIcon, toolsIcon, thoughtsIcon} from '../../assets/images'
 // import { useEffect, useState } from "react";
 
 function Navbar(){
@@ -47,14 +47,14 @@ function Navbar(){
                     <div className={`${iconTooltipStyle} bg-neutral-700`}>Projects</div>
                 </NavLink>
 
-                {/* Experiance */}
-                <NavLink to = "/experiance"
+                {/* Experience */}
+                <NavLink to = "/experience"
                 className = {({isActive}) => 
                     `relative group inline-block py-2 px-1 ${isActive ? 'border-t border-red-700 rounded-2xl ' : ''}`
                 }
                 >
-                    <img className={iconStyle} src={experianceIcon} alt="" />
-                    <div className={`${iconTooltipStyle} bg-neutral-700`}>Experiance</div>
+                    <img className={iconStyle} src={experienceIcon} alt="" />
+                    <div className={`${iconTooltipStyle} bg-neutral-700`}>Experience</div>
                 </NavLink>
 
                 {/* Tools */}
