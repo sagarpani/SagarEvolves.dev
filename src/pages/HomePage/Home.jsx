@@ -1,12 +1,16 @@
-import HeroBody from "./HomeBody";
-import HeroLanding from "./HomeLanding";
+
 import './Home.css';
+import HomeDetails from "./CraftSection";
+import CraftSection from "./CraftSection";
+import HomeLanding from "./HomeLanding";
+import HomeBody from './HomeBody';
 
 function Home(){
   return(
     <div>
-      <HeroLanding />
-      <HeroBody />
+      <HomeLanding />
+      <HomeBody />
+      <CraftSection />
     </div>
   )
 }

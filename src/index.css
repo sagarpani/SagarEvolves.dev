@@ -3,6 +3,11 @@
   --font-planeto: "Planeto", sans-serif;
 }
 
+@theme {
+  --font-signRathi: "signRathi"
+}
+
+
 *{
     box-sizing: border-box;
 }
@@ -29,4 +34,14 @@
   font-weight: 400;
   font-style: normal;
   font-display: swap;
+}
+
+@font-face {
+  font-family: "signRathi";
+  src: url("/fonts-signRathi/Sign Rathi.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+.signRathi {
+  font-family: "signRathi", sans-serif;
 }

@@ -21,7 +21,7 @@ function Navbar(){
     return(
         <div className="fixed z-100 top-0 left-0 right-0 flex items-center justify-center">
             {/* Navbar */}
-            <nav className={`flex items-center justify-between border border-neutral-400  gap-9 mt-8 px-6 py-2  rounded-2xl  
+            <nav className={`flex items-center justify-between border border-neutral-400  gap-9 mt-8 px-6 py-2  rounded-2xl backdrop-blur-2xl
             md:bg-linear-to-r md:from-black md:via-neutral-950 md:to-neutral-900
             `}>
 
