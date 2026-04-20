@@ -84,7 +84,7 @@ function HomeLanding() {
 
                     <motion.a
                         variants={buttonVariant}
-                        href="/Sagar_Sekhar_Pani.pdf"
+                        href="/Sagar_Sekhar_Pani_Resume.pdf"
                         download="Sagar_Sekhar_Pani_Resume.pdf"
                         initial="rest"
                         whileHover="hover"
