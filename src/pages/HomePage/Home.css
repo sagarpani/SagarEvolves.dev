@@ -1,5 +1,5 @@
 .herolanding{
-    background: url(../public/darkhole.jpg);
+    background: url(/darkhole.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom;
