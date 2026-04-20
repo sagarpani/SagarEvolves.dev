@@ -7,8 +7,8 @@ export const projects = [
     image: "/projectImages/portfolio.png",
     tags: ["React", "Vite", "JavaScript", "TailwindCSS", "Framer Motion" ,"CSS", "HTML", "Git", "Github" ],
     tone: "cool",
-    github: "",
-    liveLink: ""
+    github: "https://github.com/sagarpani/SagarEvolves.dev",
+    liveLink: "https://sagar-evolves-dev.vercel.app/"
   },
   {
     id: 2,
