@@ -41,7 +41,7 @@ function HomeBody() {
             transition={{ delay: 0.2, duration: 0.6 }}
           >
             About{" "}
-            <span className="bg-linear-to-r from-gray-400 via-blue-400 to-blue-600 bg-clip-text text-transparent">
+            <span className="bg-linear-to-r from-blue-400 to-purple-500 bg-clip-text text-transparent">
               ME
             </span>
           </motion.h1>

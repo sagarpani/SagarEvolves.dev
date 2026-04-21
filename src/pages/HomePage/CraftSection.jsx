@@ -215,7 +215,7 @@ export default function CraftSection() {
             {/* desktop fallback */}
             <img
               src="/illustration1.jpg"
-              className="w-full h-105 object-cover transition duration-700 group-hover:scale-105 group-hover:brightness-110"
+              className="w-full h-105 object-cover transition duration-700 group-hover:scale-105 group-hover:saturate-90 saturate-85"
               alt="illustration"
             />
           </picture>
