@@ -8,7 +8,7 @@ export const projects = [
     tags: ["Python", "Git", "Github" ],
     tone: "cool",
     github: "https://github.com/sagarpani/TubeShelf",
-    liveLink: "None"
+    liveLink: ""
   },
   {
     id: 2,

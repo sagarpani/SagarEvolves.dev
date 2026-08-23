@@ -69,13 +69,15 @@ export default function ProjectCard({ project, index }) {
         </div>
 
         <div className="flex gap-4 mt-8">
+          {project.liveLink && 
           <Link
             to={project.liveLink}
             target="_blank"
             className="px-6 py-3 rounded-full bg-white text-black"
           >
             Explore
-          </Link>
+          </Link>}
+          
 
           <Link
             to={project.github}
