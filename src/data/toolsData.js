@@ -5,7 +5,6 @@ export const tools = [
     category: "Frontend Core",
     items: [
       { name: "React", desc: "Component-driven UI architecture" },
-      { name: "JavaScript", desc: "Core logic & interactivity layer" },
       { name: "HTML5", desc: "Semantic structure foundation" },
       { name: "CSS3", desc: "Styling system & layout control" },
     ],
@@ -38,6 +37,13 @@ export const tools = [
     category: "Programming",
     items: [
       { name: "Python", desc: "General-purpose programming & problem solving" },
+      { name: "JavaScript", desc: "Core logic & interactivity layer" },
+    ],
+  },
+  {
+    category: "Database",
+    items: [
+      { name: "SQL", desc: "Database management operations" },
     ],
   }
 ]; 

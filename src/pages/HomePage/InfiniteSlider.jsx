@@ -40,6 +40,7 @@ const techStack = [
   { name: "Redux", icon: "/toolIcons/redux.png" },
   { name: "Git", icon: "/toolIcons/git.svg" },
   { name: "Python", icon: "/toolIcons/python.svg" },
+  { name: "SQL", icon: "/toolIcons/sql.svg"},
   { name: "HTML", icon: "/toolIcons/html.svg" },
   { name: "CSS", icon: "/toolIcons/css.svg" },
 ];

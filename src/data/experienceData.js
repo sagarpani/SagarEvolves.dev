@@ -6,10 +6,10 @@ export const experience = [
     role: "Trainee Software Engineer",
     company: "PCS Global Pvt. Ltd.",
     location: "Kolkata, West Bengal, India",
-    period: "Feb 2026 - Present",
+    period: "Feb 2026 - Aug 2026",
     description:
       "Undergoing structured training in software development with focus on modern web technologies and development workflows.Building frontend applications and strengthening problem-solving through hands-on projects",
-    tech: ["JavaScript", "CSS", "HTML"],
+    tech: ["Python", "React", "JavaScript", "CSS", "HTML"],
   },
   {
     id: 2,
