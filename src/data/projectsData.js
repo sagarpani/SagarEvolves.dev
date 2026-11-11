@@ -5,7 +5,7 @@ export const projects = [
     description:
       "TubeShelf is a command-line application with CRUD operations, JSON persistence, YouTube URL/duration validation, and browser-based video launching. Implemented exception handling, file handling, regular expressions, URL parsing, and backward-compatible data migration using Python's standard library.",
     image: "/projectImages/TubeShelf.png",
-    tags: ["Python", "Git", "Github" ],
+    tags: ["Python", "SQLite3", "Git", "Github" ],
     tone: "cool",
     github: "https://github.com/sagarpani/TubeShelf",
     liveLink: ""

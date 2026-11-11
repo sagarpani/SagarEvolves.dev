@@ -44,6 +44,7 @@ export const tools = [
     category: "Database",
     items: [
       { name: "SQL", desc: "Database management operations" },
+      { name: "SQLite3", desc: "Lightweight embedded relational database" },
     ],
   }
 ]; 
